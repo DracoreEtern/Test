@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@web3modal/ethers": "^4.0.10",
+    "ethers": "^6.11.1"
+  }
+}
